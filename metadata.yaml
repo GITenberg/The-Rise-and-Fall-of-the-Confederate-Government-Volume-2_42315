@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1741
     wikipedia: http://en.wikipedia.org/wiki/Jefferson_Davis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42315#The-Rise-and-Fall-of-the-Confederate-Government-Volume-2
 gutenberg_issued: '2013-03-12'
 gutenberg_type: Text
 identifiers:
